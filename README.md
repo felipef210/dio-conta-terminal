@@ -1,18 +1,12 @@
-## Getting Started
+## Desafio de projeto Santander 2024 - Backend com Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema simples de simulação de criação de conta.
 
-## Folder Structure
+## Estrutura dos arquivos
 
-The workspace contains two folders by default, where:
+A área de trabalho contém, por padrão duas pastas:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: contém as sources
+- `lib`: contém as dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A classe **`ContaTerminal.java`** requisitada pelo exercício está dentro de src, juntamente com App.java
